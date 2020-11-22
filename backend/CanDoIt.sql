@@ -96,4 +96,5 @@ PK_id int primary key auto_increment not null
 );
 
 
+drop database CanDoIt;
 
